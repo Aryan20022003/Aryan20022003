@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Personal project<br><br>🌱 I’m currently learning express.js<br><br>❓ Ask me about anything related to MERN stack and related technologies<br><br>⚡ Fun fact: I love to fix broken code and people
+🔭 I’m currently working on Personal project<br><br>🌱 I’m currently working wiht django and python<br><br>❓ Ask me about anything related to MERN stack and related technologies<br><br>⚡ Fun fact: I love to fix broken code and people
 
 
 ## 🌐 Socials:
